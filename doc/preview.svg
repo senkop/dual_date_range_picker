@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="560" viewBox="0 0 860 560" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<style>.t{font-size:14px;fill:#1C1C28}.s{font-size:12px;fill:#6B6B80}.d{font-size:14px;fill:#1C1C28}.g{font-size:14px;fill:#A3A3B5}.w{font-size:12px;fill:#6B6B80}.b{font-size:14px;font-weight:600}</style>
+<rect width="860" height="560" rx="18" fill="#FFFFFF" stroke="#E4E4EC"/>
+<text x="22" y="40" font-size="17" fill="#1C1C28" font-weight="600">Select date range</text>
+<rect x="680" y="18" width="160" height="34" rx="10" fill="none" stroke="#D6D6E0"/>
+<rect x="684" y="22" width="86" height="26" rx="7" fill="#1C1C28"/>
+<text x="727" y="40" text-anchor="middle" font-size="13" font-weight="600" fill="#fff">Gregorian</text>
+<text x="805" y="40" text-anchor="middle" font-size="13" fill="#1C1C28">Hijri</text>
+<line x1="0" y1="68" x2="860" y2="68" stroke="#E4E4EC"/>
+<text x="22" y="106" class="t" >Today</text>
+<text x="22" y="148" class="t" >Yesterday</text>
+
+<text x="22" y="190" class="t" >Last 7 Days</text>
+<text x="22" y="232" class="t" >Last 30 Days</text>
+<line x1="160" y1="68" x2="160" y2="372" stroke="#E4E4EC"/>
+<text x="341.0" y="104" text-anchor="middle" class="b" fill="#1C1C28">October 2026 ▾</text>
+<text x="186" y="104" font-size="18" fill="#1C1C28">‹</text>
+<text x="203.0" y="138" text-anchor="middle" class="w">S</text>
+<text x="249.0" y="138" text-anchor="middle" class="w">M</text>
+<text x="295.0" y="138" text-anchor="middle" class="w">T</text>
+<text x="341.0" y="138" text-anchor="middle" class="w">W</text>
+<text x="387.0" y="138" text-anchor="middle" class="w">T</text>
+<text x="433.0" y="138" text-anchor="middle" class="w">F</text>
+<text x="479.0" y="138" text-anchor="middle" class="w">S</text>
+<text x="387.0" y="175" text-anchor="middle" class="d">1</text>
+<text x="433.0" y="175" text-anchor="middle" class="d">2</text>
+<text x="479.0" y="175" text-anchor="middle" class="d">3</text>
+<text x="203.0" y="215" text-anchor="middle" class="d">4</text>
+<text x="249.0" y="215" text-anchor="middle" class="d">5</text>
+<text x="295.0" y="215" text-anchor="middle" class="d">6</text>
+<text x="341.0" y="215" text-anchor="middle" class="d">7</text>
+<text x="387.0" y="215" text-anchor="middle" class="d">8</text>
+<text x="433.0" y="215" text-anchor="middle" class="d">9</text>
+<text x="479.0" y="215" text-anchor="middle" class="d">10</text>
+<text x="203.0" y="255" text-anchor="middle" class="d">11</text>
+<text x="249.0" y="255" text-anchor="middle" class="d">12</text>
+<text x="295.0" y="255" text-anchor="middle" class="d">13</text>
+<text x="341.0" y="255" text-anchor="middle" class="d">14</text>
+<text x="387.0" y="255" text-anchor="middle" class="d">15</text>
+<text x="433.0" y="255" text-anchor="middle" class="d">16</text>
+<text x="479.0" y="255" text-anchor="middle" class="d">17</text>
+<text x="203.0" y="295" text-anchor="middle" class="d">18</text>
+<text x="249.0" y="295" text-anchor="middle" class="d">19</text>
+<text x="295.0" y="295" text-anchor="middle" class="d">20</text>
+<text x="341.0" y="295" text-anchor="middle" class="d">21</text>
+<text x="387.0" y="295" text-anchor="middle" class="d">22</text>
+<text x="433.0" y="295" text-anchor="middle" class="d">23</text>
+<text x="479.0" y="295" text-anchor="middle" class="d">24</text>
+<text x="203.0" y="335" text-anchor="middle" class="d">25</text>
+<text x="249.0" y="335" text-anchor="middle" class="d">26</text>
+<text x="295.0" y="335" text-anchor="middle" class="d">27</text>
+<text x="341.0" y="335" text-anchor="middle" class="d">28</text>
+<text x="387.0" y="335" text-anchor="middle" class="d">29</text>
+<text x="433.0" y="335" text-anchor="middle" class="d">30</text>
+<text x="479.0" y="335" text-anchor="middle" class="d">31</text>
+<text x="679.0" y="104" text-anchor="middle" class="b" fill="#1C1C28">November 2026 ▾</text>
+<text x="826" y="104" font-size="18" fill="#A3A3B5">›</text>
+<text x="541.0" y="138" text-anchor="middle" class="w">S</text>
+<text x="587.0" y="138" text-anchor="middle" class="w">M</text>
+<text x="633.0" y="138" text-anchor="middle" class="w">T</text>
+<text x="679.0" y="138" text-anchor="middle" class="w">W</text>
+<text x="725.0" y="138" text-anchor="middle" class="w">T</text>
+<text x="771.0" y="138" text-anchor="middle" class="w">F</text>
+<text x="817.0" y="138" text-anchor="middle" class="w">S</text>
+<text x="541.0" y="175" text-anchor="middle" class="d">1</text>
+<text x="587.0" y="175" text-anchor="middle" class="d">2</text>
+<text x="633.0" y="175" text-anchor="middle" class="d">3</text>
+<text x="679.0" y="175" text-anchor="middle" class="d">4</text>
+<text x="725.0" y="175" text-anchor="middle" class="d">5</text>
+<text x="771.0" y="175" text-anchor="middle" class="d">6</text>
+<text x="817.0" y="175" text-anchor="middle" class="d">7</text>
+<text x="541.0" y="215" text-anchor="middle" class="d">8</text>
+<text x="587.0" y="215" text-anchor="middle" class="d">9</text>
+<text x="633.0" y="215" text-anchor="middle" class="d">10</text>
+<text x="679.0" y="215" text-anchor="middle" class="d">11</text>
+<text x="725.0" y="215" text-anchor="middle" class="d">12</text>
+<rect x="771.0" y="192" width="23.0" height="36" fill="#EDEDF3"/>
+<circle cx="771.0" cy="210" r="18" fill="#1C1C28"/>
+<text x="771.0" y="215" text-anchor="middle" font-size="14" font-weight="600" fill="#fff">13</text>
+<rect x="794.0" y="192" width="46.0" height="36" fill="#EDEDF3"/>
+<text x="817.0" y="215" text-anchor="middle" class="d">14</text>
+<rect x="518.0" y="232" width="46.0" height="36" fill="#EDEDF3"/>
+<text x="541.0" y="255" text-anchor="middle" class="d">15</text>
+<rect x="564.0" y="232" width="46.0" height="36" fill="#EDEDF3"/>
+<text x="587.0" y="255" text-anchor="middle" class="d">16</text>
+<rect x="610.0" y="232" width="46.0" height="36" fill="#EDEDF3"/>
+<text x="633.0" y="255" text-anchor="middle" class="d">17</text>
+<rect x="656.0" y="232" width="46.0" height="36" fill="#EDEDF3"/>
+<text x="679.0" y="255" text-anchor="middle" class="d">18</text>
+<rect x="702.0" y="232" width="23.0" height="36" fill="#EDEDF3"/>
+<circle cx="725.0" cy="250" r="18" fill="#1C1C28"/>
+<text x="725.0" y="255" text-anchor="middle" font-size="14" font-weight="600" fill="#fff">19</text>
+<text x="771.0" y="255" text-anchor="middle" class="g">20</text>
+<text x="817.0" y="255" text-anchor="middle" class="g">21</text>
+<text x="541.0" y="295" text-anchor="middle" class="g">22</text>
+<text x="587.0" y="295" text-anchor="middle" class="g">23</text>
+<text x="633.0" y="295" text-anchor="middle" class="g">24</text>
+<text x="679.0" y="295" text-anchor="middle" class="g">25</text>
+<text x="725.0" y="295" text-anchor="middle" class="g">26</text>
+<text x="771.0" y="295" text-anchor="middle" class="g">27</text>
+<text x="817.0" y="295" text-anchor="middle" class="g">28</text>
+<text x="541.0" y="335" text-anchor="middle" class="g">29</text>
+<text x="587.0" y="335" text-anchor="middle" class="g">30</text>
+<line x1="0" y1="372" x2="860" y2="372" stroke="#E4E4EC"/>
+<text x="18" y="400" class="t">Start Time</text>
+<rect x="18" y="410" width="402" height="50" rx="10" fill="none" stroke="#D6D6E0"/>
+<circle cx="40" cy="435" r="7" fill="none" stroke="#6B6B80" stroke-width="1.5"/><path d="M40 431 v4 h3" stroke="#6B6B80" stroke-width="1.5" fill="none"/>
+<text x="60" y="442" font-size="20" fill="#1C1C28">12 : 00</text>
+<rect x="330" y="420" width="80" height="30" rx="9" fill="none" stroke="#D6D6E0"/>
+<rect x="333" y="423" width="37" height="24" rx="7" fill="#1C1C28"/>
+<text x="351" y="440" text-anchor="middle" font-size="12" fill="#fff" font-weight="600">AM</text>
+<text x="388" y="440" text-anchor="middle" font-size="12" fill="#1C1C28">PM</text>
+<text x="440" y="400" class="t">End Time</text>
+<rect x="440" y="410" width="402" height="50" rx="10" fill="none" stroke="#D6D6E0"/>
+<circle cx="462" cy="435" r="7" fill="none" stroke="#6B6B80" stroke-width="1.5"/><path d="M462 431 v4 h3" stroke="#6B6B80" stroke-width="1.5" fill="none"/>
+<text x="482" y="442" font-size="20" fill="#1C1C28">11 : 59</text>
+<rect x="752" y="420" width="80" height="30" rx="9" fill="none" stroke="#D6D6E0"/>
+<rect x="792" y="423" width="37" height="24" rx="7" fill="#1C1C28"/>
+<text x="773" y="440" text-anchor="middle" font-size="12" fill="#1C1C28">AM</text>
+<text x="810" y="440" text-anchor="middle" font-size="12" fill="#fff" font-weight="600">PM</text>
+<text x="18" y="502" class="s">Fri, 13 November 2026 – Thu, 19 November 2026</text>
+<text x="18" y="520" class="s">3 Jumada Al-Thani 1448 – 9 Jumada Al-Thani 1448</text>
+<rect x="636" y="490" width="96" height="38" rx="10" fill="#fff" stroke="#D6D6E0"/><text x="684" y="514" text-anchor="middle" class="t">Cancel</text>
+<rect x="744" y="490" width="96" height="38" rx="10" fill="#1C1C28"/><text x="792" y="514" text-anchor="middle" font-size="14" font-weight="600" fill="#fff">Apply</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0NjNlN2IzYi1mOGNiLTRiNTYtOWYyNi1iZTZmYjM5ZGJiMzMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAnmTbi8EugFYuVB9QLhMwcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiNjRhOTI2NS03YTJlLTQ0M2MtYmIxNi0wMDI5ZDAzZDRkNmZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNocu4e2ViOxdm+sG4Ph3GOqgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggZT2uotSYXzJgnXEZNj8b5FZoooSZYrbTgiHeNLyW4NOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOGNX+OW20b7PT+iQzOPjvIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIAuKlv5/jzo0kfpq3L0dPQTDLvxZGrT0FNHptyS1OQXZZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSMLZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQ2M2U3YjNiLWY4Y2ItNGI1Ni05ZjI2LWJlNmZiMzlkYmIzMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjkwMWI0NTNjLTI4MzctNGU0Yi04ZmYyLWQyNzZhZDQ3YzA1Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBlPa6i1JhfMmCdcRk2PxvkVmiihJlittOCId40vJbg06JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg6BVpcVtFnQIx5kQzGvY/5y1S9uCxhJgLbG3rze3fRK6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg23nP3t2S1uf1S84buOmoiNUHoGN5Bz5KVC+Xz6Dj5vp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQE4ExY+42mHwH7f6dXtd3EtX0q+48yCgSqtbGhFIPNAzq8LxhJvOgqSiBWvNT1Ah5siStGlTGNnxdDccYfQ0Dng=</c2pa:manifest></metadata></svg>

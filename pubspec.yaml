@@ -1,5 +1,5 @@
 name: dual_date_range_picker
-description: A date range picker with Gregorian and Hijri (Umm al-Qura) calendars, quick presets, start/end time fields and English/Arabic labels.
+description: "A date range picker with Gregorian and Hijri (Umm al-Qura) calendars, quick presets, start/end time fields and English/Arabic labels."
 version: 0.1.0
 homepage: https://github.com/senkop/dual_date_range_picker
 repository: https://github.com/senkop/dual_date_range_picker
